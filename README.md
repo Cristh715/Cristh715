@@ -13,7 +13,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="40" height="40"/>
   <img src="https://www.labsrc.com/wp-content/uploads/2022/03/css3.png" alt="css3" width="41" height="41"/>
 </p></ul>
-
 <!---
 Cristh715/Cristh715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
