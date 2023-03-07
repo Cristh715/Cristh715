@@ -2,8 +2,8 @@
 <ul>
   <p>- 📚 Actualmente soy estudiante de Ing. de software - <b>UNMSM 🇵🇪.</b></p>
   <p>- 👀 En constante aprendizaje.</p>
-  <p>- 💻 Mis redes: <a href="https://fb.com/cristhian.atuncaryataco/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cristhian atuncar" height="30" width="40" /></a>
-<a href="https://instagram.com/cris715_ay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cris715_ay" height="30" width="40" /></a>
+  <p>- 💻 Mis redes:&nbsp; <a href="https://fb.com/cristhian.atuncaryataco/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1024px-Facebook_f_logo_%282019%29.svg.png" alt="cristhian atuncar" height="30" width="30" /></a> &nbsp;
+<a href="https://instagram.com/cris715_ay" target="_blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="@cris715_ay" height="30" width="30" /></a>
 </p></ul>
 
 <h3 align="left">👨‍💻 Conocimientos Básicos en:</h3>
