@@ -1,4 +1,4 @@
-<h3>👋 ¡Bienvenido a mi GitHub!, soy @Cristh715</h3>
+<h1>👋 ¡Bienvenido a mi GitHub!, soy @Cristh715</h3>
 <ul>
   <p>- 📚 Actualmente soy estudiante de Ing. de software - <b>UNMSM 🇵🇪.</b></p>
   <p>- 👀 En constante aprendizaje.</p>
@@ -6,7 +6,7 @@
 <a href="https://instagram.com/cris715_ay" target="_blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="@cris715_ay" height="30" width="30" /></a>
 </p></ul>
 
-<h3 align="left">👨‍💻 Conocimientos Básicos en:</h3>
+<h2 align="left">👨‍💻 Conocimientos Básicos en:</h2>
 <ul><p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
