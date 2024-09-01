@@ -1,2 +1,2 @@
-## 👋 ¡Bienvenido a mi GitHub!, soy `@Cristh715`
-> En constante aprendizaje 📚
+## 👋 ¡Welcome to my GitHub!, I am `@Cristh715`
+> Frontend Developer 👨‍💻 | UNMSM student 📚
